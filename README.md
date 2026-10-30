@@ -12,12 +12,12 @@ This is the schema defining the group and each member's contributions to the var
 
 ## Development
 This repository implements the following components:
-    - The chart (`crates/chart`)
-    - The harness (`crates/game`)
-    - The admiralty (`crates/admiralty`)
-    - The cartographer (`crates/cartographer`)
-    - The islands (`crates/island`)
-    - The ship (`crates/ship`)
+  - The chart (`crates/chart`)
+  - The harness (`crates/game`)
+  - The admiralty (`crates/admiralty`)
+  - The cartographer (`crates/cartographer`)
+  - The islands (`crates/island`)
+  - The ship (`crates/ship`)
 
 ## Continuous Integration
-On push to any branch, and on pull requests to `dev` and `main`, a CI workflow is ran. What it does is, essentially, checking the formatting, running clippy and also running the unit tests.
+On push to any branch, and on pull requests to `dev` and `main`, a CI workflow is ran. What it does is, essentially, checking the formatting, running `clippy` and also running the unit tests.
