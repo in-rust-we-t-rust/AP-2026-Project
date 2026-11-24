@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$/crates/admiralty">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/crates/cartographer">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/crates/chart">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/crates/game">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/crates/island">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/crates/protocol">
+        <feature name="default" enabled="true" />
+      </package>
+      <package file="$PROJECT_DIR$/crates/ship">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be4f0e32-207e-4c83-85dc-67b362a7c320" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="Q2PN1dMV" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.3419740311715644" />
+      <entry key="MS500" value="3.511620952611963" />
+      <entry key="S2" value="6.207188669324099" />
+      <entry key="S5" value="8.7774872091077" />
+      <entry key="S10" value="14.596113444420615" />
+      <entry key="S30" value="31.75746306870221" />
+      <entry key="S60" value="41.79854863692902" />
+      <entry key="M2" value="49.04838341302069" />
+      <entry key="M5" value="62.00176548829555" />
+      <entry key="M10" value="78.28176949440228" />
+      <entry key="M15" value="88.81443108110058" />
+      <entry key="M30" value="112.62791773212386" />
+      <entry key="H1" value="149.6640483558728" />
+      <entry key="H2" value="189.53308251559642" />
+      <entry key="H4" value="219.97575942382792" />
+      <entry key="D1" value="253.27507324950247" />
+      <entry key="W1" value="259.8723770400835" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.134454943052197E-143" />
+      <entry key="S5" value="9.626970445068173E-58" />
+      <entry key="S10" value="3.969634821100702E-29" />
+      <entry key="S30" value="5.268975993293608E-10" />
+      <entry key="S60" value="3.234551245917563E-5" />
+      <entry key="M2" value="0.008035788881820504" />
+      <entry key="M5" value="0.2200570746100999" />
+      <entry key="M10" value="0.6641041387192235" />
+      <entry key="M15" value="0.9683963171074547" />
+      <entry key="M30" value="1.5260132308111092" />
+      <entry key="H1" value="2.1958622233816296" />
+      <entry key="H2" value="2.8555311708668913" />
+      <entry key="H4" value="3.346219670950436" />
+      <entry key="D1" value="3.877310361261642" />
+      <entry key="W1" value="3.982100078870419" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0986019397448323" />
+      <entry key="MS500" value="3.354839605087536" />
+      <entry key="S2" value="6.052536641043001" />
+      <entry key="S5" value="8.603883274546995" />
+      <entry key="S10" value="14.42194704093346" />
+      <entry key="S30" value="31.62526593379667" />
+      <entry key="S60" value="41.70886534142698" />
+      <entry key="M2" value="49.00201372751321" />
+      <entry key="M5" value="62.18893816679104" />
+      <entry key="M10" value="78.92068472444697" />
+      <entry key="M15" value="89.762241702339" />
+      <entry key="M30" value="114.14021574713196" />
+      <entry key="H1" value="151.85102829296844" />
+      <entry key="H2" value="192.3831901118515" />
+      <entry key="H4" value="223.31890519172563" />
+      <entry key="D1" value="257.15180635701506" />
+      <entry key="W1" value="263.85439282939353" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MYWtQe3DipOtiAdk4Fqh0Z7UwN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "Feat/admiralty",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/rocco/Desktop/advanced_prog/AP-2026-Project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SelectedDebugProfileService">{
+  &quot;profileIdByStamp&quot;: [],
+  &quot;modificationCount&quot;: 1
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be4f0e32-207e-4c83-85dc-67b362a7c320" name="Changes" comment="" />
+      <created>1795528195935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795528195935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
