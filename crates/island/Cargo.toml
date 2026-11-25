@@ -4,6 +4,6 @@ version = "0.1.0"
 edition.workspace = true
 
 [dependencies]
-
+common = {package = "ap-2026-common-code",git ="https://github.com/SharedCode-UniTn-AP-2026/Common_Code-AP_2026",branch = "main"}
 [lints]
 workspace = true
