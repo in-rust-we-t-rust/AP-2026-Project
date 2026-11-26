@@ -1,3 +1,5 @@
 #![deny(unsafe_code)]
 #![deny(clippy::pedantic)]
-pub use common::islandtrait;
+
+/// First Island of In Rust We Trust, Flavio.
+pub mod in_rust_we_trust1;
